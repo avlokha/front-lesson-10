@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1920px;
+    width: 100%;
+    margin: 0 auto;
+}
+.section-p{
+    font-size: 20px;
+    color: white;
+}
+.section-div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: blue;
+    height: 200px;
+}
+.section-first-div{
+    display: flex; 
+    background-color: blue;
+}
+.section-second-div{
+    background-color: black;
+    margin-right: 10px;
+     display: flex; 
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
