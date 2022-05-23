@@ -76,4 +76,53 @@ span{
     margin-top: 380px;
     margin-left: 1000px;
 }
-
+.main-div{
+    display: flex;
+    justify-content: space-between;
+}
+ H1{ 
+    margin-top: 50px;
+    font-size: 32px;
+}
+.PARAGRAFI{
+    width: 463px;
+    margin-top: 50PX;
+}
+.d-flex{ 
+    
+    display: flex;
+    width: 219px;
+    height: 82px;
+}
+.wertili{ 
+    
+    border-radius: 50px;
+    width: 7px;
+    height: 7px; 
+    background-color: blue;
+    position: absolute;
+    right: 40%;
+    top: 60%; 
+}
+.wertili2{
+    border-radius: 50px;
+    width: 7px;
+    height: 7px; 
+    background-color: gray;
+    position: absolute;
+    right: 39%;
+    top: 60%; 
+}
+.wertili3{
+    border-radius: 50px;
+    width: 7px;
+    height: 7px; 
+    background-color: gray;
+    position: absolute;
+    right: 38%;
+    top: 60%; 
+}
+.border-radius{
+     display: flex; 
+     justify-content: space-between;
+ }
