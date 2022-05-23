@@ -54,20 +54,26 @@
 }
 .div2{
     display: flex;
-    margin-left: 150px;
+    margin-left: 130px;
     margin-top: 20px;
     position:absolute;
 }
 .second-p{
     width: 300px;
-    background-color:white;
+    background-color:#FFFFFF;
     border-radius: 15px;
     position: relative;
     padding: 10px;
     margin-left: -350px;
     margin-bottom: -170px;
+    font-family:Helveticaregular;
 }
-/* .p1{
-    margin-left: -350px;
-    margin-bottom: -170px;
-} */
+span{
+    width: 150px;
+    font-size: 18px;
+    color: black;
+    display: flex;
+    margin-top: 380px;
+    margin-left: 1000px;
+}
+
