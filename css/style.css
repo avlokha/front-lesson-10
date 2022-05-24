@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+ul,
+ol {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+footer {
+  max-width: 1400px;
+  width: 100%;
+  margin: 0 auto;
+  background-color: blue;
+  height: 720px;
+}
+.h2 {
+  padding-top: 10%;
+  padding-left: 10%;
+}
+.p {
+  padding-top: 2%;
+  padding-left: 10%;
+}
+.iframe {
+  padding-top: 2%;
+  padding-left: 10%;
+  border-radius: 15%;
+  display: inline-block;
+  margin-top: -12%;
+}
+.color {
+  color: white;
+}
+.p {
+  width: 40%;
+  font-size: 16px;
+}
+.contact img {
+  background-color: white;
+  display: inline-block;
+
+  padding: 10px;
+}
+.contact {
+  padding-left: 10%;
+  padding-top: 2%;
+  display: flex;
+  align-items: center;
+}
+.contact :nth-child(3) {
+  margin-left: 15%;
+}
+.last-div {
+  padding-top: 5%;
+  padding-left: 10%;
+  display: flex;
+  align-items: center;
+}
+.damzadebulia {
+  padding-left: 50%;
+}
+.it {
+  margin-right: 2%;
+}
+.input1 {
+  display: flex;
+  justify-content: space-between;
+}
+.input {
+  padding-right: 25%;
+}
+.gagzavna {
+  padding: 10px 35px;
+}
+.input input {
+  border: none;
+  background-color: transparent;
+  border-bottom: 1px solid gray;
+  height: 70px;
+  width: 120%;
+}
+.textarea textarea {
+  border: none;
+  background-color: transparent;
+  border-bottom: 1px solid gray;
+  height: 50px;
+  width: 150px;
+}
